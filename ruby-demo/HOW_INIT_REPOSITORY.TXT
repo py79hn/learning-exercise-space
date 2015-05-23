@@ -1,0 +1,6 @@
+
+git init
+git add .
+git commit -m'ruby demo init'
+git remote add origin redmaple@115.28.200.89:ruby-demo.git 
+git push origin master
